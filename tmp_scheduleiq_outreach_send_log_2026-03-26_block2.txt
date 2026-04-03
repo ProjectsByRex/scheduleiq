@@ -1,0 +1,25 @@
+SENDING	Hilton Family Dentistry	info@hiltonfamilydentistry.com
+message_id	
+thread_id	
+
+---
+SENDING	ManiDental Family Practice	office@manidental.com
+message_id	
+thread_id	
+
+---
+SENDING	Main Family Dental Care	mainfamilydentalcare@dvfdpc.com
+message_id	
+thread_id	
+
+---
+SENDING	Matthews Family Dentistry	smile@matthewsfamilydentistry.com
+message_id	
+thread_id	
+
+---
+SENDING	Family Dental Wellness	frontdesk@myfamilydentalwellness.com
+message_id	
+thread_id	
+
+---

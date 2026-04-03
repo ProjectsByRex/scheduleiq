@@ -1,0 +1,24 @@
+{
+  "updated_at": "2026-03-23T11:36:00-04:00",
+  "strategy": "Founder/CEO/operator-focused audience aligned to current product building, validation, shipping, customer pain, SaaS execution, and business-building. De-emphasize OpenClaw-specific and generic AI-builder chatter.",
+  "categories": {
+    "founder_ceo_operator": [
+      { "handle": "dharmesh", "why": "Founder/operator perspective with product and business-building relevance." },
+      { "handle": "gregisenberg", "why": "Founder, product, audience, and business model conversations." },
+      { "handle": "xyzWhiskey", "why": "Shipping cadence, focus, and operator-style business building." },
+      { "handle": "theshajha", "why": "Founder execution, positioning, and business-building commentary." },
+      { "handle": "tomik99", "why": "Operator/founder takes on AI-native business models and software execution." }
+    ],
+    "saas_execution_validation": [
+      { "handle": "JulianGoldieSEO", "why": "Distribution, growth, SEO, and SaaS execution-adjacent discussion." },
+      { "handle": "lewiscarhart", "why": "Founder/startup ops, tactical growth, and execution-minded content." },
+      { "handle": "jeoste_", "why": "Indie hacker / SaaS founder content with practical builder relevance." },
+      { "handle": "pixvira", "why": "SaaS founder perspective where useful, but secondary to operator/founder themes." }
+    ],
+    "customer_pain_distribution": [
+      { "handle": "gregisenberg", "why": "Audience, market, and founder distribution insight." },
+      { "handle": "dharmesh", "why": "Product, user value, and operator thinking." },
+      { "handle": "xyzWhiskey", "why": "Practical takes on what is worth building and shipping." }
+    ]
+  }
+}

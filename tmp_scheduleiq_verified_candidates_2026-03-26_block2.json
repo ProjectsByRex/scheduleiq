@@ -1,0 +1,42 @@
+[
+  {
+    "business_name": "Hilton Family Dentistry",
+    "official_website_url": "https://www.hiltonfamilydentistry.com/contact-us/",
+    "email": "info@hiltonfamilydentistry.com",
+    "variant": "B",
+    "message_template_file": "/Users/rex/.openclaw/workspace/tmp_scheduleiq_outreach_batch3_body_2026-03-25.txt",
+    "status": "ready"
+  },
+  {
+    "business_name": "ManiDental Family Practice",
+    "official_website_url": "https://manidental.com/contact-us/",
+    "email": "office@manidental.com",
+    "variant": "B",
+    "message_template_file": "/Users/rex/.openclaw/workspace/tmp_scheduleiq_outreach_batch3_body_2026-03-25.txt",
+    "status": "ready"
+  },
+  {
+    "business_name": "Main Family Dental Care",
+    "official_website_url": "https://www.mainfamilydentalcare.com/contact-us/",
+    "email": "mainfamilydentalcare@dvfdpc.com",
+    "variant": "B",
+    "message_template_file": "/Users/rex/.openclaw/workspace/tmp_scheduleiq_outreach_batch3_body_2026-03-25.txt",
+    "status": "ready"
+  },
+  {
+    "business_name": "Matthews Family Dentistry",
+    "official_website_url": "https://matthewsfamilydentistry.com/contactus/",
+    "email": "smile@matthewsfamilydentistry.com",
+    "variant": "B",
+    "message_template_file": "/Users/rex/.openclaw/workspace/tmp_scheduleiq_outreach_batch3_body_2026-03-25.txt",
+    "status": "ready"
+  },
+  {
+    "business_name": "Family Dental Wellness",
+    "official_website_url": "https://myfamilydentalwellness.com/",
+    "email": "frontdesk@myfamilydentalwellness.com",
+    "variant": "B",
+    "message_template_file": "/Users/rex/.openclaw/workspace/tmp_scheduleiq_outreach_batch3_body_2026-03-25.txt",
+    "status": "ready"
+  }
+]

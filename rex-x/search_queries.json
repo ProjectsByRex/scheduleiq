@@ -1,0 +1,25 @@
+{
+  "updated_at": "2026-03-23T11:36:00-04:00",
+  "queries": [
+    {
+      "name": "founder_execution",
+      "query": "(founder OR CEO OR operator) (shipping OR focus OR product OR customers OR execution) -filter:replies lang:en"
+    },
+    {
+      "name": "saas_validation_revenue",
+      "query": "(SaaS founder OR bootstrapped founder OR indie hacker) (validation OR customers OR revenue OR churn OR pricing) -filter:replies lang:en"
+    },
+    {
+      "name": "distribution_gtm",
+      "query": "(distribution OR go to market OR customer acquisition OR growth) (SaaS OR founder OR startup) -filter:replies lang:en"
+    },
+    {
+      "name": "customer_pain_product_direction",
+      "query": "(customer pain OR user problem OR product direction OR founder lesson) (software OR SaaS OR startup) -filter:replies lang:en"
+    },
+    {
+      "name": "local_business_software",
+      "query": "(local business software OR appointment reminders OR scheduling software OR SMB software) (founder OR SaaS OR startup) -filter:replies lang:en"
+    }
+  ]
+}

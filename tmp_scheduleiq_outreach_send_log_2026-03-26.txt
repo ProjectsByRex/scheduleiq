@@ -1,0 +1,149 @@
+SENDING	Covington Family Dentistry	info@covingtonfamilydentistryga.com
+message_id	19d2aaefd24dfec5
+thread_id	19d2aaefd24dfec5
+
+---
+SENDING	Family Dental Center	info@familydentalcentertn.com
+message_id	19d2aaefefd425da
+thread_id	19d2aaefefd425da
+
+---
+SENDING	Knoxville Family Dental	info@knoxvillefamilydentaltn.com
+message_id	19d2aaf0376f2dac
+thread_id	19d2aaf0376f2dac
+
+---
+SENDING	Cary Family Dental	hello@carydental.com
+message_id	19d2aaf07c3a07a7
+thread_id	19d2aaf07c3a07a7
+
+---
+SENDING	Cayce Family Dentistry	office@caycedentistry.com
+message_id	19d2aaf08c388327
+thread_id	19d2aaf08c388327
+
+---
+SENDING	Monroe Family Dentistry	info@monroefamilydentistry.com
+message_id	19d2aaf0c0795a60
+thread_id	19d2aaf0c0795a60
+
+---
+SENDING	Maryville Family Dental	office@maryvillefamilydentaltn.com
+message_id	19d2aaf0e5117c8d
+thread_id	19d2aaf0e5117c8d
+
+---
+SENDING	Hillcrest Family Dentistry	info@hillcrestfamilydentistry.com
+message_id	19d2aaf123acb3d3
+thread_id	19d2aaf123acb3d3
+
+---
+SENDING	Family Dental Associates of Spring Hill	office@familydentalcampbellstation.com
+message_id	19d2aaf16ba95169
+thread_id	19d2aaf16ba95169
+
+---
+SENDING	Kissimmee Family Dentistry	info@kissimmeefamilydental.com
+message_id	19d2aaf19e51b585
+thread_id	19d2aaf19e51b585
+
+---
+SENDING	Park Boulevard Family Dentistry	brush@parkboulevardfamilydentistry.com
+message_id	19d2aaf1fa61e96e
+thread_id	19d2aaf1fa61e96e
+
+---
+SENDING	Ohio Family Dentistry	smile@ohiofamilydentistry.com
+message_id	19d2aaf2096836f7
+thread_id	19d2aaf2096836f7
+
+---
+SENDING	Indiana Family Dentistry	mydentist@infamilydentistry.com
+message_id	19d2aaf29893700b
+thread_id	19d2aaf29893700b
+
+---
+SENDING	Family Dental Missouri	familydentalmo@gmail.com
+message_id	19d2aaf2ca688142
+thread_id	19d2aaf2ca688142
+
+---
+SENDING	Adams Morgan Family Dentistry	amfdent@gmail.com
+message_id	19d2aaf31149e467
+thread_id	19d2aaf31149e467
+
+---
+---
+SENDING	Myers + Co. Family Dentistry	frontdesk@myersandcofamilydentistry.com
+message_id	19d2cb5f24c17d5c
+thread_id	19d2cb5f24c17d5c
+
+---
+SENDING	West Cobb Family Dentistry	frontdesk@mywcfd.com
+message_id	19d2cb5f53fbdd5e
+thread_id	19d2cb5f53fbdd5e
+
+---
+SENDING	Cedar Spring Family Dentistry	info@cedarspringfamilydentistry.com
+message_id	19d2cb5f82ee6f4c
+thread_id	19d2cb5f82ee6f4c
+
+---
+SENDING	Richland Creek Family Dentistry	frontdesk@richlandcreekdentistry.com
+message_id	19d2cb5fd2d6aa8d
+thread_id	19d2cb5fd2d6aa8d
+
+---
+SENDING	Miller Family Dentistry	miller@millerfamilydentistrytn.com
+message_id	19d2cb5ff9539375
+thread_id	19d2cb5ff9539375
+
+---
+SENDING	Jacksonville Family Dentistry	info@jacksonville-family-dentistry.com
+message_id	19d2cb602b902672
+thread_id	19d2cb602b902672
+
+---
+SENDING	Riverside Family Dentistry	contact@riversidefamilydentistryva.com
+message_id	19d2cb6073e111e1
+thread_id	19d2cb6073e111e1
+
+---
+SENDING	Family Dental Group	info@familydentaltucson.com
+message_id	19d2cb609ace0861
+thread_id	19d2cb609ace0861
+
+---
+SENDING	Main Street Family Dentistry	info@mainstfamilydentistry.com
+message_id	19d2cb60c76f9e0b
+thread_id	19d2cb60c76f9e0b
+
+---
+SENDING	NLD Smyrna	info@nldsmyrna.com
+message_id	19d2cb6104a7e942
+thread_id	19d2cb6104a7e942
+
+---
+SENDING	Smiles on Main Family Dentistry	info@smilesonmaintn.com
+message_id	19d2cb615b82815a
+thread_id	19d2cb615b82815a
+
+---
+SENDING	Hilton Family Dentistry	info@hiltonfamilydentistry.com
+message_id	19d2cb617335a6fe
+thread_id	19d2cb617335a6fe
+
+---
+SENDING	ManiDental Family Practice	office@manidental.com
+message_id	19d2cb61c69c88d1
+thread_id	19d2cb61c69c88d1
+
+---
+SENDING	Main Family Dental Care	mainfamilydentalcare@dvfdpc.com
+message_id	19d2cb61e4651bd1
+thread_id	19d2cb61e4651bd1
+
+---
+SENDING	Matthews Family Dentistry	smile@matthewsfamilydentistry.com
+message_id	19d2cb620752b076
+thread_id	19d2cb620752b076

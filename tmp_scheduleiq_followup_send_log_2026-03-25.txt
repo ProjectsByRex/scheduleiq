@@ -1,0 +1,80 @@
+SENDING info@atlfamilydentistry.com
+message_id	19d27058574a536a
+thread_id	19d27058574a536a
+---
+SENDING contact@eastatlfamilydental.com
+message_id	19d27058a7b9bc21
+thread_id	19d27058a7b9bc21
+---
+SENDING manager@belvederedentistry.com
+message_id	19d27058d16555c4
+thread_id	19d27058d16555c4
+---
+SENDING info@ballantynefamilydental.com
+message_id	19d2705901213a66
+thread_id	19d2705901213a66
+---
+SENDING info@ayrsleyfamilydentistry.com
+message_id	19d270594ff21fda
+thread_id	19d270594ff21fda
+---
+SENDING info@apexfamilydentistry.com
+message_id	19d270599154360c
+thread_id	19d270599154360c
+---
+SENDING info@raleighncdentistry.com
+message_id	19d27059d258e556
+thread_id	19d27059d258e556
+---
+SENDING office@jonesfamilydentalga.com
+message_id	19d2705a15d2db5f
+thread_id	19d2705a15d2db5f
+---
+SENDING office@hanahanfamilydentistry.com
+message_id	19d2705a37c92c14
+thread_id	19d2705a37c92c14
+---
+SENDING sabrina@ashevillefamilydentistry.com
+message_id	19d2705a7232cbda
+thread_id	19d2705a7232cbda
+---
+SENDING smiles@sandflyfamilydental.com
+message_id	19d2705aa79b1abe
+thread_id	19d2705aa79b1abe
+---
+SENDING info@augustafamilydentalga.com
+message_id	19d2705ae1e1389e
+thread_id	19d2705ae1e1389e
+---
+SENDING info@triaddentistry.com
+message_id	19d2705b1cd82bf7
+thread_id	19d2705b1cd82bf7
+---
+SENDING office@summerfielddentistry.com
+message_id	19d2705b52a59a1f
+thread_id	19d2705b52a59a1f
+---
+SENDING smile@bryantfamilydentistrytn.com
+message_id	19d2705b8d5313ab
+thread_id	19d2705b8d5313ab
+---
+SENDING office@chattanoogafamilydentaltn.com
+message_id	19d2705baa08a650
+thread_id	19d2705baa08a650
+---
+SENDING frontdesk@completedental-al.com
+message_id	19d2705bf2a3027a
+thread_id	19d2705bf2a3027a
+---
+SENDING Columbiafamilydentalcenter@gmail.com
+message_id	19d2705c3689bf62
+thread_id	19d2705c3689bf62
+---
+SENDING guilfordfamilydentistry@hotmail.com
+message_id	19d2705c63a8acc4
+thread_id	19d2705c63a8acc4
+---
+SENDING docdenisestone@aol.com
+message_id	19d2705c9880c2b1
+thread_id	19d2705c9880c2b1
+---

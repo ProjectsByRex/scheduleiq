@@ -1,0 +1,35 @@
+SENDING frontdesk@myersandcofamilydentistry.com
+message_id	19d2708861fa5660
+thread_id	19d2708861fa5660
+EXIT 0
+---
+SENDING frontdesk@mywcfd.com
+message_id	19d27088998f0589
+thread_id	19d27088998f0589
+EXIT 0
+---
+SENDING info@cedarspringfamilydentistry.com
+message_id	19d27088ca3e80d0
+thread_id	19d27088ca3e80d0
+EXIT 0
+---
+SENDING frontdesk@richlandcreekdentistry.com
+message_id	19d27088e46763f6
+thread_id	19d27088e46763f6
+EXIT 0
+---
+SENDING miller@millerfamilydentistrytn.com
+message_id	19d27089232a8e01
+thread_id	19d27089232a8e01
+EXIT 0
+---
+SENDING info@jacksonville-family-dentistry.com
+message_id	19d270899179b678
+thread_id	19d270899179b678
+EXIT 0
+---
+SENDING contact@riversidefamilydentistryva.com
+message_id	19d27089b7354803
+thread_id	19d27089b7354803
+EXIT 0
+---
